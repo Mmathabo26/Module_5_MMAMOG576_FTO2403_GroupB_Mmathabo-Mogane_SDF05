@@ -1,0 +1,27 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://cdn.discordapp.com/attachments/1197619939406774392/1222535559348486184/image.png?ex=6659ce76&is=66587cf6&hm=e916f27017dfeefc295d9ba93f00843cdfd37814097fc33b441ed660f56dda47&);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 3px;
+}
